@@ -1,4 +1,4 @@
-#Scoolez website
+# Scoolez website
 
 ## Project setup
 ```
