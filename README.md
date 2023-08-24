@@ -1,4 +1,4 @@
-# kaban-board
+#Scoolez website
 
 ## Project setup
 ```
